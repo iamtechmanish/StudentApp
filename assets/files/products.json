@@ -1,0 +1,85 @@
+{
+    "products" : [
+        {
+        "id": 1,
+        "name": "iPhone 12",
+        "desc": "Apple iphone 12th Generation",
+        "color": "#6DECE0",
+        "image": "https://www.reliancedigital.in/medias/Apple-iPhone-12-128GB-491996644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MzY2Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDQwL2hiYi85NTMwMDA1MTU5OTY2LmpwZ3xmNjY0NjAyYjMyNmQ2MWE0YmRiMzMzY2EyMjgyZjVkYjBiODY2YWExMzY2MTdkNTM0MzcxMDgzNTAxZWI3ODBl",
+        "price": 1
+        },
+
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iphone 12th Generation",
+            "color": "#6DECE0",
+            "image": "https://www.reliancedigital.in/medias/Apple-iPhone-12-128GB-491996644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MzY2Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDQwL2hiYi85NTMwMDA1MTU5OTY2LmpwZ3xmNjY0NjAyYjMyNmQ2MWE0YmRiMzMzY2EyMjgyZjVkYjBiODY2YWExMzY2MTdkNTM0MzcxMDgzNTAxZWI3ODBl",
+            "price": 1
+        },
+
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iphone 12th Generation",
+            "color": "#6DECE0",
+            "image": "https://www.reliancedigital.in/medias/Apple-iPhone-12-128GB-491996644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MzY2Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDQwL2hiYi85NTMwMDA1MTU5OTY2LmpwZ3xmNjY0NjAyYjMyNmQ2MWE0YmRiMzMzY2EyMjgyZjVkYjBiODY2YWExMzY2MTdkNTM0MzcxMDgzNTAxZWI3ODBl",
+            "price": 1
+        },
+
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iphone 12th Generation",
+            "color": "#6DECE0",
+            "image": "https://www.reliancedigital.in/medias/Apple-iPhone-12-128GB-491996644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MzY2Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDQwL2hiYi85NTMwMDA1MTU5OTY2LmpwZ3xmNjY0NjAyYjMyNmQ2MWE0YmRiMzMzY2EyMjgyZjVkYjBiODY2YWExMzY2MTdkNTM0MzcxMDgzNTAxZWI3ODBl",
+            "price": 1
+        },
+
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iphone 12th Generation",
+            "color": "#6DECE0",
+            "image": "https://www.reliancedigital.in/medias/Apple-iPhone-12-128GB-491996644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MzY2Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDQwL2hiYi85NTMwMDA1MTU5OTY2LmpwZ3xmNjY0NjAyYjMyNmQ2MWE0YmRiMzMzY2EyMjgyZjVkYjBiODY2YWExMzY2MTdkNTM0MzcxMDgzNTAxZWI3ODBl",
+            "price": 1
+        },
+
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iphone 12th Generation",
+            "color": "#6DECE0",
+            "image": "https://www.reliancedigital.in/medias/Apple-iPhone-12-128GB-491996644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MzY2Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDQwL2hiYi85NTMwMDA1MTU5OTY2LmpwZ3xmNjY0NjAyYjMyNmQ2MWE0YmRiMzMzY2EyMjgyZjVkYjBiODY2YWExMzY2MTdkNTM0MzcxMDgzNTAxZWI3ODBl",
+            "price": 1
+        },
+
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iphone 12th Generation",
+            "color": "#6DECE0",
+            "image": "https://www.reliancedigital.in/medias/Apple-iPhone-12-128GB-491996644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MzY2Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDQwL2hiYi85NTMwMDA1MTU5OTY2LmpwZ3xmNjY0NjAyYjMyNmQ2MWE0YmRiMzMzY2EyMjgyZjVkYjBiODY2YWExMzY2MTdkNTM0MzcxMDgzNTAxZWI3ODBl",
+            "price": 1
+        },
+
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iphone 12th Generation",
+            "color": "#6DECE0",
+            "image": "https://www.reliancedigital.in/medias/Apple-iPhone-12-128GB-491996644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MzY2Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDQwL2hiYi85NTMwMDA1MTU5OTY2LmpwZ3xmNjY0NjAyYjMyNmQ2MWE0YmRiMzMzY2EyMjgyZjVkYjBiODY2YWExMzY2MTdkNTM0MzcxMDgzNTAxZWI3ODBl",
+            "price": 1
+        },
+
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iphone 12th Generation",
+            "color": "#6DECE0",
+            "image": "https://www.reliancedigital.in/medias/Apple-iPhone-12-128GB-491996644-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1MzY2Mjd8aW1hZ2UvanBlZ3xpbWFnZXMvaDQwL2hiYi85NTMwMDA1MTU5OTY2LmpwZ3xmNjY0NjAyYjMyNmQ2MWE0YmRiMzMzY2EyMjgyZjVkYjBiODY2YWExMzY2MTdkNTM0MzcxMDgzNTAxZWI3ODBl",
+            "price": 1
+        }
+
+    ]
+}

@@ -1,4 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:teacher_app/Pages/home_page.dart';
+import 'package:teacher_app/utils/routes.dart';
+import 'package:teacher_app/widgets/themes.dart';
+
+import 'Pages/login_page.dart';
 void main(){
   runApp(TeacherApp());
 }
@@ -8,12 +13,16 @@ class TeacherApp extends  StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Material(
-        child: Center(
-          child: Container(child: Text("Teacher APP"),),
-        ),
-      ),
-    );
+  
+     return MaterialApp(
+     themeMode: ThemeMode.light,
+     theme: MyTheme.lightTheme(context),
+     debugShowCheckedModeBanner: false,
+     initialRoute: MyRoutes.homeRoute,
+     routes: {
+        MyRoutes.loginRoute: (context) => LoginPage(),
+        MyRoutes.homeRoute: (context) => HomePage(),
+     },
+    ); 
   }
 }
